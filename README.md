@@ -153,4 +153,5 @@ This repository was developed by [Waleed Ebrahem Mohamed](https://www.linkedin.c
 
 ## Acknowledgements
 
-This project is built upon the [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) repository.
+This project is built upon the [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) and [PaddleOCR](https://github.com/Mushroomcat9998/PaddleOCR/tree/main) repositories.
+
