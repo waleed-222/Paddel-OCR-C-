@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\CMakeFiles\a58e7bc79be1e8e9b3913808f49826b5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{35922A39-5509-3CD9-9C52-3B84E67FF313}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

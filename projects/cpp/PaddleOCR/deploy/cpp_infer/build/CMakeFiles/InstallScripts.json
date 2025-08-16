@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/projects/cpp/PaddleOCR/deploy/cpp_infer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

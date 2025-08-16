@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\clipper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\ocr_cls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\ocr_det.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\ocr_rec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\postprocess_op.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\preprocess_op.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\projects\cpp\PaddleOCR\deploy\cpp_infer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D85BD3DF-F3CF-3714-9EEB-A450C6997737}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

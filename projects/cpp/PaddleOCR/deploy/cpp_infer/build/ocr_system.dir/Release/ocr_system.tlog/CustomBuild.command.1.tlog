@@ -1,0 +1,10 @@
+^F:\PROJECTS\CPP\PADDLEOCR\DEPLOY\CPP_INFER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SF:/projects/cpp/PaddleOCR/deploy/cpp_infer -BF:/projects/cpp/PaddleOCR/deploy/cpp_infer/build --check-stamp-file F:/projects/cpp/PaddleOCR/deploy/cpp_infer/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

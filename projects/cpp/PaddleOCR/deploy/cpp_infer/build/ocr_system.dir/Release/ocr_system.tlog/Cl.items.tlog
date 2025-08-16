@@ -1,0 +1,9 @@
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\clipper.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\clipper.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\config.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\config.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\main.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\main.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\ocr_cls.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\ocr_cls.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\ocr_det.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\ocr_det.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\ocr_rec.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\ocr_rec.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\postprocess_op.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\postprocess_op.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\preprocess_op.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\preprocess_op.obj
+F:\projects\cpp\PaddleOCR\deploy\cpp_infer\src\utility.cpp;F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\ocr_system.dir\Release\utility.obj

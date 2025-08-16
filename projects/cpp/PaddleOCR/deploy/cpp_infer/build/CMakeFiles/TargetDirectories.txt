@@ -1,0 +1,3 @@
+F:/projects/cpp/PaddleOCR/deploy/cpp_infer/build/CMakeFiles/ocr_system.dir
+F:/projects/cpp/PaddleOCR/deploy/cpp_infer/build/CMakeFiles/ALL_BUILD.dir
+F:/projects/cpp/PaddleOCR/deploy/cpp_infer/build/CMakeFiles/ZERO_CHECK.dir

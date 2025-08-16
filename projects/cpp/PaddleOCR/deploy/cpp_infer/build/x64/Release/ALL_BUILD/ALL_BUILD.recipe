@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\Release\ocr_system.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>F:\projects\cpp\PaddleOCR\deploy\cpp_infer\build\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
